@@ -1,5 +1,5 @@
 {
-  "version": "4.0",
+  "version": "4.1",
   "url": "https://github.com/arrozlarpero1234-afk/skibidi/releases/latest",
-  "notes": "Primera version con auto-actualizacion"
+  "notes": "Falsos positivos corregidos y escaneo mas rapido"
 }
