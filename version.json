@@ -1,5 +1,5 @@
 {
-  "version": "4.4",
-  "url": "https://github.com/arrozlarpero1234-afk/skibidi/raw/main/releases/PC.Check.Assist.4.4.exe",
-  "notes": "Nueva deteccion del inyector EZ4TRAP PREMIUM v1.0 (hash + huella interna). Sigue detectando EZ4STRAP y rastros de evasion."
+  "version": "4.5",
+  "url": "https://github.com/arrozlarpero1234-afk/skibidi/raw/main/releases/PC.Check.Assist.4.5.exe",
+  "notes": "Deteccion del inyector EZ4TRAP PREMIUM y correccion de la version mostrada en la interfaz."
 }
